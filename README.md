@@ -23,5 +23,5 @@
 ### New queries:
 
 4) Find the number of products sold by each employee.
-5) find the most product sold affiliate on today's.
+5) find the branch that sold the most products today.
 6) find the best-selling product in the current month.
